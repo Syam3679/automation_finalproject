@@ -1,0 +1,5 @@
+22:46:44.245 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x6600eaeb0cce5d56
+22:46:45.887 [main] INFO  testcases.LoginTest - URl launched
+22:46:45.992 [main] INFO  testcases.LoginTest - Username entered
+22:46:50.224 [main] INFO  testcases.LoginTest - URl launched
+22:46:50.304 [main] INFO  testcases.LoginTest - Username entered
